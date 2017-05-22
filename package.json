@@ -1,7 +1,7 @@
 {
   "name": "spotifind",
-  "version": "0.0.0",
-  "description": "",
+  "version": "0.0.1",
+  "description": "Find Spotify songs in the Tunefind database",
   "main": "index.js",
   "scripts": {
     "test": "jasmine"
@@ -16,12 +16,18 @@
     "movie",
     "soundtrack"
   ],
-  "author": "",
+  "author": "Pedro Otero <pedro.otero.prada@gmail.com> (https://co.linkedin.com/in/pedrooteroprada)",
   "license": "ISC",
   "dependencies": {
-    "tunefindjs": "0.0.1"
+    "string": "^3.3.3",
+    "throttled-queue": "^1.0.4",
+    "tunefindjs": "0.0.2"
   },
   "devDependencies": {
     "jasmine": "^2.6.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pedro-otero/spotifind.git"
   }
 }

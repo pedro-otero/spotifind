@@ -1,0 +1,184 @@
+[
+  {
+    "track": {
+      "artists": [
+        {
+          "name": "Lady Gaga"
+        }
+      ],
+      "name": "Paparazzi"
+    },
+    "result": {
+      "shows": [
+        {
+          "id": "gossip-girl",
+          "number": "2",
+          "episode_id": "3229"
+        },
+        {
+          "id": "pretty-little-liars",
+          "number": "4",
+          "episode_id": "16451"
+        }
+      ],
+      "movies": []
+    }
+  },
+  {
+    "track": {
+      "artists": [
+        {
+          "name": "Hot Chip"
+        }
+      ],
+      "name": "Dark and Stormy"
+    },
+    "result": {
+      "shows": [
+        {
+          "id": "how-to-get-away-with-murder",
+          "number": "1",
+          "episode_id": "19856"
+        }
+      ],
+      "movies": []
+    }
+  },
+  {
+    "track": {
+      "artists": [
+        {
+          "name": "IAMX"
+        }
+      ],
+      "name": "I Come With Knives"
+    },
+    "result": {
+      "shows": [
+        {
+          "id": "how-to-get-away-with-murder",
+          "number": "1",
+          "episode_id": "19856"
+        }
+      ],
+      "movies": []
+    }
+  },
+  {
+    "track": {
+      "artists": [
+        {
+          "name": "Jem"
+        }
+      ],
+      "name": "They"
+    },
+    "result": {
+      "shows": [
+        {
+          "id": "greys-anatomy",
+          "number": "1",
+          "episode_id": "238"
+        },
+        {
+          "id": "crossing-jordan",
+          "number": "3",
+          "episode_id": "1809"
+        },
+        {
+          "id": "greys-anatomy",
+          "number": "12",
+          "episode_id": "29117"
+        }
+      ],
+      "movies": []
+    }
+  },
+  {
+    "track": {
+      "artists": [
+        {
+          "name": "Bang Sugar Bang"
+        }
+      ],
+      "name": "Super Cool"
+    },
+    "result": {
+      "shows": [
+        {
+          "id": "greys-anatomy",
+          "number": "1",
+          "episode_id": "238"
+        }
+      ],
+      "movies": []
+    }
+  },
+  {
+    "track": {
+      "artists": [
+        {
+          "name": "*NSYNC"
+        }
+      ],
+      "name": "Bye Bye Bye"
+    },
+    "result": {
+      "shows": [
+        {
+          "id": "scrubs",
+          "number": "6",
+          "episode_id": "2209"
+        },
+        {
+          "id": "dancing-with-the-stars",
+          "number": "22",
+          "episode_id": "31926"
+        },
+        {
+          "id": "lip-sync-battle",
+          "number": "1",
+          "episode_id": "32285"
+        },
+        {
+          "id": "the-tonight-show-starring-jimmy-fallon",
+          "number": "2016",
+          "episode_id": "32450"
+        }
+      ],
+      "movies": [
+        {
+          "id": "just-go-with-it-2011"
+        }
+      ]
+    }
+  },
+  {
+    "track": {
+      "artists": [
+        {
+          "name": "this artist doesn't exist"
+        }
+      ],
+      "name": "this track doesn't exist and it's here to test how the program behaves when it founds nothing"
+    },
+    "result": {
+      "shows": [],
+      "movies": []
+    }
+  },
+  {
+    "track": {
+      "artists": [
+        {
+          "name": "*NSYNC"
+        }
+      ],
+      "name": "This track doesn't exist for NSYNC"
+    },
+    "result": {
+      "shows": [],
+      "movies": []
+    }
+  }
+]

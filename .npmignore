@@ -43,3 +43,8 @@ jspm_packages
 .node_repl_history
 
 /api-keys.json
+/src/queue.spec.js
+/src/find-songs.spec.js
+/index.spec.js
+/spec/test-tracks.json
+/src/infer-id.spec.js
